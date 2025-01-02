@@ -1,4 +1,4 @@
-## Hi there 👋
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q418BPJA)
 
 <!--
 **eugenikus8/eugenikus8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
